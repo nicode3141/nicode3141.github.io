@@ -13,3 +13,5 @@ The research and robot competition combines the fun of technology and science wi
 
 # What makes Team [Sap herobrains](https://www.rnz.de/nachrichten/wiesloch_artikel,-unermuedlicher-forschergeist-team-sap-hero-brains-nimmt-an-lego-league-teil-_arid,492633.html) 
 Team Sap Herobrains is a German team supported by SAP Germany . The young team has already participated in many competitions. Their best place in the overall ranking was the 2nd place.
+
+
