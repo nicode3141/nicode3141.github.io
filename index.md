@@ -1,6 +1,6 @@
 ### SAP Herobrains
 
-**Whats [FLL] ? **(https://www.first-lego-league.org/de/allgemeines/was-ist-fll.html)  
+# Whats [FLL](https://www.first-lego-league.org/de/allgemeines/was-ist-fll.html)  
 FIRST® LEGO® League is a support programme that introduces children and young people to science and technology in a sporting atmosphere. This is intended to make it easier for them to access scientific subjects and to awaken their motivation to learn an engineering or IT profession at an early age. 
 
 The aim is
